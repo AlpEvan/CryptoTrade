@@ -8,10 +8,16 @@ namespace CryptoTrade
         [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+
+            // 1. On lance d'abord le Login
+            LoginForm login = new LoginForm();
+
+            if (login.ShowDialog() == DialogResult.OK)
+            {
+                // 2. On passe l'ID récupéré au Form1
+                Application.Run(new Form1(login.UserId));
+            }
         }
     }
 }

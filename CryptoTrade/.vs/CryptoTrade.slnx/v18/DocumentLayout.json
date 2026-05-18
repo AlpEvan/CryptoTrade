@@ -1,26 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\cryptotrade\\cryptotrade\\cryptotrade\\binanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\binanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\c#\\cryptotrade\\cryptotrade\\cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC8C13CE-529E-4DCC-BB61-DBD12D3E5855}|CryptoTrade\\CryptoTrade.csproj|C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FC8C13CE-529E-4DCC-BB61-DBD12D3E5855}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\cryptotrade\\cryptotrade\\cryptotrade\\debugform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\debugform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\cryptotrade\\cryptotrade\\cryptotrade\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\c#\\cryptotrade\\cryptotrade\\cryptotrade\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\cryptotrade\\cryptotrade\\cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\c#\\cryptotrade\\cryptotrade\\cryptotrade\\binanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\binanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\c#\\cryptotrade\\cryptotrade\\cryptotrade\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\c#\\cryptotrade\\cryptotrade\\cryptotrade\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\c#\\cryptotrade\\cryptotrade\\cryptotrade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\c#\\cryptotrade\\cryptotrade\\cryptotrade\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\c#\\cryptotrade\\cryptotrade\\cryptotrade\\debugform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\debugform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|c:\\users\\admin\\desktop\\c#\\cryptotrade\\cryptotrade\\cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8205DB39-D50B-0E79-3876-8CE38C8D659D}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8C13CE-529E-4DCC-BB61-DBD12D3E5855}|CryptoTrade\\CryptoTrade.csproj|C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC8C13CE-529E-4DCC-BB61-DBD12D3E5855}|CryptoTrade\\CryptoTrade.csproj|solutionrelative:cryptotrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,66 +50,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 58,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DebugForm.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\DebugForm.cs",
-              "RelativeDocumentMoniker": "CryptoTrade\\DebugForm.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\DebugForm.cs",
-              "RelativeToolTip": "CryptoTrade\\DebugForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs",
+              "RelativeDocumentMoniker": "CryptoTrade\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs",
+              "RelativeToolTip": "CryptoTrade\\Form1.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAqwKgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T07:13:15.028Z"
+              "WhenOpened": "2026-05-11T07:01:26.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CryptoTrade\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\LoginForm.cs",
+              "RelativeToolTip": "CryptoTrade\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:29:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CryptoTrade\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\LoginForm.cs [Conception]",
+              "RelativeToolTip": "CryptoTrade\\LoginForm.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:29:30.43Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "CryptoTrade\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\DatabaseService.cs",
+              "RelativeToolTip": "CryptoTrade\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T07:15:46.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs",
+              "RelativeDocumentMoniker": "CryptoTrade\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs [Conception]",
+              "RelativeToolTip": "CryptoTrade\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T06:18:53.001Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DebugForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\DebugForm.cs",
+              "RelativeDocumentMoniker": "CryptoTrade\\DebugForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\DebugForm.cs",
+              "RelativeToolTip": "CryptoTrade\\DebugForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:13:15.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BinanceService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\BinanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\BinanceService.cs",
               "RelativeDocumentMoniker": "CryptoTrade\\BinanceService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\BinanceService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\BinanceService.cs",
               "RelativeToolTip": "CryptoTrade\\BinanceService.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswNMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T07:10:17.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "CryptoTrade\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.Designer.cs",
               "RelativeToolTip": "CryptoTrade\\Form1.Designer.cs",
-              "ViewState": "AgIAAJcBAAAAAAAAAAAkwL4BAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACsBAAAAAAAAAAAawDsBAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T07:01:33.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs",
-              "RelativeDocumentMoniker": "CryptoTrade\\Form1.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs",
-              "RelativeToolTip": "CryptoTrade\\Form1.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwGIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T07:01:26.973Z",
+              "WhenOpened": "2026-05-11T07:01:33.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoTrade\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Program.cs",
+              "RelativeToolTip": "CryptoTrade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:35:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Conception]",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs",
               "RelativeDocumentMoniker": "CryptoTrade\\Form1.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs [Conception]",
-              "RelativeToolTip": "CryptoTrade\\Form1.cs [Conception]",
+              "RelativeToolTip": "..\\..\\..\\CryptoTrade\\CryptoTrade\\CryptoTrade\\Form1.cs [Conception]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T07:00:58.705Z"
             }
